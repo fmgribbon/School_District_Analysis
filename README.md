@@ -1,7 +1,5 @@
 ##School District Analysis
-
 ###Project Overview
-
  
 This project used the school district data to provide data-based evidence showing the effects of the 9th grade altered Math and Reading state test scores. 
 Several metrics in table format were created from the data provided. 
