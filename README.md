@@ -4,7 +4,7 @@
 This project used the school district data to provide data-based evidence showing the effects of the 9th grade altered Math and Reading state test scores. 
 Several metrics in table format were created from the data provided. 
 Two calculations were performed to generate the metrics submitted to the school board. 
-The first calculation included all test scores of grades 9th thru 12th .The second calculation excluded the altered 9th grade test scores from Thomas High School.The metrics presented to the school board will be used to determine the extent of the academic dishonesty and uphold the state-testing academic standards. 
+The first calculation included all test scores of grades 9th thru 12th. The second calculation excluded the altered 9th grade test scores from Thomas High School.The metrics presented to the school board will be used to determine the extent of the academic dishonesty and uphold the state-testing academic standards. 
 ##### List of School District Metrics 
   - Summary of the school district's key metrics
   - School performance based on budget per student
@@ -31,7 +31,7 @@ The first calculation included all test scores of grades 9th thru 12th .The seco
 [Average Math test scores in each grade level](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/Grade9th_12th_MathScores_Module.PNG)
 
 [Average Reading test scores in each grade level](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/Grade9th_12th_ReadingScores_Module.PNG)
-###Recalculations Results 
+### Recalculations Results 
 [School District Summary of Key Metrics](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/SchoolDistrictSummary_Recalc.PNG)
 
 [School performance based on budget per student](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/ScoreSummaryBySpendingPerStudent_Recalc.PNG)
