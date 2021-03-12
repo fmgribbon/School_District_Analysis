@@ -1,7 +1,7 @@
 # School District Analysis
 ## Project Overview
  
-This project used the school district data to provide data-based evidence showing the effects of the 9th grade altered Math and Reading state test scores. 
+This project used the school district data to provide data-based evidence on the effects of the 9th grade altered Math and Reading state test scores. 
 Several metrics in table format were created from the data provided. 
 Two calculations were performed to generate the metrics submitted to the school board. 
 The first calculation included all test scores of grades 9th thru 12th. The second calculation excluded the altered 9th grade test scores from Thomas High School.The metrics presented to the school board will be used to determine the extent of the academic dishonesty and uphold the state-testing academic standards. 
@@ -52,7 +52,7 @@ The first calculation included all test scores of grades 9th thru 12th. The seco
 
 After excluding the altered 9th Grade Math and Reading Test Scores from Thomas High School, below were the results:
 
-- The school districts average Math score, passing Rate for Reading and Math have decreased. 
+- The school districts average Math score, passing Rate for Reading and Math have decreasedby a hundreth. 
 - The school test results performance based on budget, school size, and school type remained unchanged.  
   - **School district performance based on:**
       - Budget per student: Thomas High School budget per student is $638. It falls in the range of $630 – 644. The average test scores remained the unchanged for schools with a budget in the range of $630 – 644.
