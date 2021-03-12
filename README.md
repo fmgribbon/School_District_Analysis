@@ -31,7 +31,9 @@ The first calculation included all test scores of grades 9th thru 12th. The seco
 [Average Math test scores in each grade level](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/Grade9th_12th_MathScores_Module.PNG)
 
 [Average Reading test scores in each grade level](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/Grade9th_12th_ReadingScores_Module.PNG)
+
 ### Recalculations Results 
+
 [School District Summary of Key Metrics](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/SchoolDistrictSummary_Recalc.PNG)
 
 [School performance based on budget per student](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/ScoreSummaryBySpendingPerStudent_Recalc.PNG)
