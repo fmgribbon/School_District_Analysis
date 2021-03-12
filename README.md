@@ -16,39 +16,39 @@ The first calculation included all test scores of grades 9th thru 12th. The seco
  
 ## Results
 ### Initial Calculation Results
-[School District Summary of Key Metrics](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/SchoolDistrictSummary_Module.PNG)
+[School District Summary of Key Metrics](https://github.com/fmgribbon/School_District_Analysis/blob/main/Resources/Metrics/SchoolDistrictSummary_Module.PNG)
 
-[School performance based on budget per student](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/ScoreSummaryBySpendingPerStudent_Module.PNG)
+[School performance based on budget per student](https://github.com/fmgribbon/School_District_Analysis/blob/main/Resources/Metrics/ScoreSummaryBySpendingPerStudent_Module.PNG)
 
-[School performance based on school size](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/ScoresSummaryBySchoolSize_Module.PNG)
+[School performance based on school size](https://github.com/fmgribbon/School_District_Analysis/blob/main/Resources/Metrics/ScoresSummaryBySchoolSize_Module.PNG)
 
-[School performance based on school type](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/ScoresSummaryBySchoolType_module.PNG)
+[School performance based on school type](https://github.com/fmgribbon/School_District_Analysis/blob/main/Resources/Metrics/ScoresSummaryBySchoolType_module.PNG)
 
-[Top 5 schools, based on overall passing rate](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/SchoolSummaryTopFive_Module.PNG)
+[Top 5 schools, based on overall passing rate](https://github.com/fmgribbon/School_District_Analysis/blob/main/Resources/Metrics/SchoolSummaryTopFive_Module.PNG)
 
-[Bottom  5 schools, based on overall passing rate](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/SchoolsummaryBottomFive_Module.PNG)
+[Bottom  5 schools, based on overall passing rate](https://github.com/fmgribbon/School_District_Analysis/blob/main/Resources/Metrics/SchoolsummaryBottomFive_Module.PNG)
 
-[Average Math test scores in each grade level](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/Grade9th_12th_MathScores_Module.PNG)
+[Average Math test scores in each grade level](https://github.com/fmgribbon/School_District_Analysis/blob/main/Resources/Metrics/Grade9th_12th_MathScores_Module.PNG)
 
-[Average Reading test scores in each grade level](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/Grade9th_12th_ReadingScores_Module.PNG)
+[Average Reading test scores in each grade level](https://github.com/fmgribbon/School_District_Analysis/blob/main/Resources/Metrics/Grade9th_12th_ReadingScores_Module.PNG)
 
 ### Recalculations Results 
 
-[School District Summary of Key Metrics](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/SchoolDistrictSummary_Recalc.PNG)
+[School District Summary of Key Metrics](https://github.com/fmgribbon/School_District_Analysis/blob/main/Resources/Metrics/SchoolDistrictSummary_Recalc.PNG)
 
-[School performance based on budget per student](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/ScoreSummaryBySpendingPerStudent_Recalc.PNG)
+[School performance based on budget per student](https://github.com/fmgribbon/School_District_Analysis/blob/main/Resources/Metrics/ScoreSummaryBySpendingPerStudent_Recalc.PNG)
 
-[School performance based on school size](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/ScoresSummaryBySchoolSize_Recalc.PNG)
+[School performance based on school size](https://github.com/fmgribbon/School_District_Analysis/blob/main/Resources/Metrics/ScoresSummaryBySchoolSize_Recalc.PNG)
 
-[School performance based on type of school](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/ScoresSummaryBySchoolType_Recalc.PNG)
+[School performance based on type of school](https://github.com/fmgribbon/School_District_Analysis/blob/main/Resources/Metrics/ScoresSummaryBySchoolType_Recalc.PNG)
 
-[Top 5 schools, based on the overall passing rate](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/SchoolSummaryTopFive_Recalc.PNG)
+[Top 5 schools, based on the overall passing rate](https://github.com/fmgribbon/School_District_Analysis/blob/main/Resources/Metrics/SchoolSummaryTopFive_Recalc.PNG)
 
-[Bottom 5 schools, based on the overall passing rate](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/SchoolsummaryBottomFive_Recalc.PNG)
+[Bottom 5 schools, based on the overall passing rate](https://github.com/fmgribbon/School_District_Analysis/blob/main/Resources/Metrics/SchoolsummaryBottomFive_Recalc.PNG)
 
-[Average Math test scores in each grade level](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/Grade9th_12th_MathScores_Recalc.PNG)
+[Average Math test scores in each grade level](https://github.com/fmgribbon/School_District_Analysis/blob/main/Resources/Metrics/Grade9th_12th_MathScores_Recalc.PNG)
 
-[Average Reading test scores in each grade level](https://github.com/fmgribbon/School_District_Analysis_New/blob/main/Resources/Metrics/Grade9th_12th_ReadingScores_Recalc.PNG)
+[Average Reading test scores in each grade level](https://github.com/fmgribbon/School_District_Analysis/blob/main/Resources/Metrics/Grade9th_12th_ReadingScores_Recalc.PNG)
 
 After excluding the altered 9th Grade Math and Reading Test Scores from Thomas High School, below were the results:
 
